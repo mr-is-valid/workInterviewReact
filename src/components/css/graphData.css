@@ -1,0 +1,12 @@
+
+.map-container {
+    height: 500px;
+    width: 90%;
+    margin: 5%;
+}
+
+.chartStyle{
+    height: 400px !important;
+    width: 90%;
+    margin: 5%;
+}
